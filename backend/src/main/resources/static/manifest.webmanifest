@@ -1,0 +1,9 @@
+{
+  "name": "Stockwise ERP",
+  "short_name": "Stockwise",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f5f1",
+  "theme_color": "#18382f",
+  "icons": []
+}
