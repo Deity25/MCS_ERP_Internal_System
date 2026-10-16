@@ -1,4 +1,3 @@
-
 # Stockwise ERP
 
 Stockwise is an end-to-end operations ERP for a fictional regional wholesale distributor. It connects order entry, purchasing, inventory, invoicing, reporting, and replenishment in one workflow.
